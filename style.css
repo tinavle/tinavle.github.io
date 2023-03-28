@@ -3,16 +3,16 @@ body{
 }
 
 h1{
-  color:blue;
-  font-family:helvetica;
+  color: blue;
+  font-family: helvetica;
 }
   p{
-    color:#blue
+    color: blue
   }
 
   img{
     border: 5px solid fuchsia;
-    width:50%;
+    width: 50%;
     height: 50%;
     margin-left: 100px;
   }
