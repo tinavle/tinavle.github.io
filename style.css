@@ -1,17 +1,17 @@
 body{
-  background-color: #ffe6e6;
+  background-color: #EDD6CC;
 }
 
 h1{
-  color: blue;
+  color: #A8512F;
   font-family: helvetica;
 }
   p{
-    color: blue
+    color: #233349
   }
 
   img{
-    border: 5px solid fuchsia;
+    border: 5px solid #9EAFB6;
     width: 50%;
     height: 50%;
     margin-left: 100px;
