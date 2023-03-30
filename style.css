@@ -6,8 +6,19 @@ h1{
   color: #A8512F;
   font-family: helvetica;
 }
+
+h2{
+  color: #233349;
+  font-family: helvetica;
+}
+
+h3{
+  color: #233349;
+  font-family: helvetica;
+}
   p{
-    color: #233349
+    color: #233349;
+    font-family: helvetica;
   }
 
   img{
