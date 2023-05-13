@@ -4,21 +4,26 @@ body{
 
 h1{
   color: #A8512F;
-  font-family: helvetica;
+  font-family: didot;
 }
 
 h2{
   color: #233349;
-  font-family: helvetica;
+  font-family: didot;
 }
 
 h3{
   color: #233349;
-  font-family: helvetica;
+  font-family: didot;
 }
   p{
     color: #233349;
-    font-family: helvetica;
+    font-family: avenir;
+  }
+
+  ul{
+    color: #233349;
+    font-family: avenir;
   }
 
   img{
@@ -27,4 +32,21 @@ h3{
     height: 50%;
     margin-left: 100px;
   }
+}
+
+
+.layout-container {
+   width:100%;
+}
+main {
+  width:75%;
+  float:left;
+}
+aside {
+  width:25%;
+  float:left;
+  background-color: #9EAFB6;
+}
+.layout-container:after {
+   clear:both;
 }
